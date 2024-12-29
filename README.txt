@@ -1,4 +1,4 @@
-This project contains our work on a music class scheduling system done on PHP and MYSQL using XAMPP AND PHPMYADMIN
+This project contains my work on a music class scheduling system done on PHP and MYSQL using XAMPP AND PHPMYADMIN
 
 STEPS TO RUN:-
 
